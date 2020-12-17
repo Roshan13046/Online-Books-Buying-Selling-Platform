@@ -9,7 +9,8 @@ Entity Relation Diagram:
 ![ERDiagram](https://user-images.githubusercontent.com/55108788/102488931-c5a10880-4092-11eb-9c85-4d402a440b9a.png)
 
 
-PURPOSE OF THE SYSTEM
+PURPOSE OF THE SYSTEM:-
+
 First-year students and Direct Second-year students have to face problems of buying second-hand books. Unused books of senior students and faculties can be shared on our platform.
 Students can resell their used books by uploading the book details and buyers can get contact details of the sellers through email notifications.
 Buying second hand books through our platform will save their time and money which is wasted in searching and buying at some new place. 
