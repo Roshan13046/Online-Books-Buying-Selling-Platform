@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation
+{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+.custnav
+{
+    background-color: rgb(0,0,0);
+    height: 10vh;
+    font-size: 20px;
+}
+.custnav ul li a
+{
+    color: white;
+    font-size: 22px;
+    margin: 0 15px;
+    transition: font-size 0.4s ease;
+}
+
+.custnav ul li a:hover{
+
+    font-size:25px;
+}
+
+.active
+{
+    border-bottom: 2px solid white;
+}
+
+.logsign
+{
+    padding: 0px 10px;
+}
+.hero_section
+{  /*
+    background-image: linear-gradient(rgb(95, 84, 84),rgb(95, 84, 84)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0KiJCtInx0xwWQBx3Z-Qw1aHeq8mjvpUVBA&usqp=CAU");
+    */
+    background-image: linear-gradient(rgb(95, 84, 84),rgb(95, 84, 84));
+    background-blend-mode: multiply;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content
+{
+    color: white;
+    text-align: center;
+}
+#SearchBooks
+{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.info
+{
+    margin-top: 20px;
+    text-align: center;
+    padding: 50px 0px;
+}
+.info .card
+{
+    width:200px;
+    height: 200px; 
+    margin-right: 50px;
+    justify-content: center; 
+    padding-top: 25px; 
+    font-size: 35px; 
+    font-weight: 25px; 
+    color: black;
+}
+.features
+{
+    
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background: #f8f9fa;
+    text-align: center;
+    margin: 20px 0px;
+    margin-bottom: 50px;
+}
+.imgs img
+{
+    width: 100px;
+    margin-top: 20px;
+}
+.imgs h4
+{
+   padding: 5px;
+   margin-top: 25px;
+   text-transform: uppercase;
+}
+
+.acc_settings
+{
+    margin-top: 150px;
+}
+
+.aboutus
+{
+    margin-top: 20px;
+    text-align: center;
+    padding: 50px 0px;
+}
+.aboutus h1
+{
+    margin-bottom: 30px;
+}
+.aboutus h4
+{
+    padding-top: 20px;
+}
+.search
+{
+    padding: 70px 0px;
+}
+.search h1
+{
+    text-align: center;
+}
+.search input
+{
+    margin: 20px 0px;
+    
+}
+.signin
+{
+    padding: 70px 0px;
+}
+.signin h1
+{
+    text-align: center;
+}
+.signin input
+{
+    margin: 20px 0px;
+    
+}
+
+.showresults
+{
+    margin-top: 50px;
+}
+.results
+{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.info
+{
+    margin-top:100px;
+}
+.images
+{
+    border: 1px solid;
+    width: 700px;
+    height: 465px;
+}
+/* .images img
+{
+    width: 700px;
+    height: 465px;
+} */
+#price
+{
+    border: 1px solid black;
+    height: 100px;
+    padding: 20px 0px;
+}
+#sellerinfo
+{
+    margin-top: 25px;
+    border: 1px solid black;
+}
+#sellerinfo h3
+{
+    text-align: left;
+    padding: 10px 10px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+#sellerinfo
+{
+    padding: 10px 20px;
+    text-align: left;
+}
+.book
+{
+    border: 1px solid black;
+    padding: 10px 20px;
+    width: 700px;
+}
+#names
+{
+    padding: 10px 20px;
+    text-align: left;
+}
+.sellform
+{
+    padding: 70px 0px;
+}
+.sellform h1
+{
+    text-align: center;
+}
+
+.extra__image
+{
+    height: 200px;
+    width: 100%;
+    max-width: 100%;
+}
+.card-row img
+{
+    border-radius: 4px;
+}
+.container .row .adSection
+{
+    padding: 5px;
+    border: 1px solid  black;
+}
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.price_right
+{
+    float: right;
+}
+.info .card {
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    margin-right: 50px;
+    justify-content: center;
+    padding-top: 25px;
+    font-size: 15px;
+    font-weight: 25px;
+    color: black;
+    border: none;
+}
