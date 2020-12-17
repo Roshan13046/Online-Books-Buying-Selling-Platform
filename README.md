@@ -7,3 +7,24 @@ Please checkout Project Report: https://drive.google.com/drive/u/0/folders/1Hua4
 
 Entity Relation Diagram: 
 ![ERDiagram](https://user-images.githubusercontent.com/55108788/102488931-c5a10880-4092-11eb-9c85-4d402a440b9a.png)
+
+
+PURPOSE OF THE SYSTEM
+First-year students and Direct Second-year students have to face problems of buying second-hand books. Unused books of senior students and faculties can be shared on our platform.
+Students can resell their used books by uploading the book details and buyers can get contact details of the sellers through email notifications.
+Buying second hand books through our platform will save their time and money which is wasted in searching and buying at some new place. 
+This platform will also reduce the communication barrier between junior and seniors.
+
+
+
+BENEFITS OF THIS SYSTEM:-
+                                 
+This system will provide an easy way to buy used books.
+By using this system buyer can easily get the required book details along with the sellers information.
+It will reduce search time and money wasted in buying new books.
+It will also increase the juniors and seniors interaction.
+It can be easily handled by any user who has basic knowledge of  web.
+The buyer and seller data is securely send through google mail notifications.
+
+
+
