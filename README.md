@@ -6,3 +6,4 @@ Majority students prefer buying second hand books rather than buying new books, 
 Please checkout Project Report: https://drive.google.com/drive/u/0/folders/1Hua44Q8QJk1Kwv9nNr-AyD3vikkk6QnF
 
 Entity Relation Diagram: 
+![ERDiagram](https://user-images.githubusercontent.com/55108788/102488931-c5a10880-4092-11eb-9c85-4d402a440b9a.png)
